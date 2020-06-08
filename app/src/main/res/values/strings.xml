@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Phone Book</string>
+    <string name="activity_title_home">Contacts</string>
+    <string name="msg_no_contacts">No contact found!</string>
+    <string name="lbl_new_contact_title">New Contact</string>
+    <string name="lbl_edit_contact_title">Edit Contact</string>
+    <string name="lbl_delete_contact_title">Delete Contact</string>
+    <string name="hint_enter_name">Enter Owner\'s name!</string>
+    <string name="hint_enter_phone">Enter phone!</string>
+    <string name="hint_enter_description">Enter description!</string>
+    <string name="spinner_prompt">Choose category</string>
+    <string-array name="contact_categories">
+        <item>Friends</item>
+        <item>Colleagues</item>
+        <item>Family</item>
+        <item>Others</item>
+    </string-array>
+</resources>
